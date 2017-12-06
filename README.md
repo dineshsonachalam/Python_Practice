@@ -3,7 +3,7 @@
 To Do:
 1. - [x]  Introduction
 2. - [x]  Basic Data Types
-3. - [ ]  Strings
+3. - [x]  Strings
 4. - [ ]  Sets
 5. - [ ]  Math
 6. - [ ]  IterTools
